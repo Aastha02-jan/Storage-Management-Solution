@@ -8,10 +8,15 @@ It's a place where people help each other out.
 Tech Stack
 
 React 19
+
 Next.js 15
+
 Appwrite
+
 TailwindCSS
+
 ShadCN
+
 TypeScript
 
 Features
